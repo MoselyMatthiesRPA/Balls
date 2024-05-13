@@ -1,0 +1,27 @@
+body {
+    background-color: #e2edfa;
+    margin:0px;
+    padding:0px;
+}
+.leafs {
+    background: url("./backgroundphoto\ \(1\).avif");
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    width: 25vw;
+    margin-left: 0px;
+    background-repeat: no-repeat;
+}
+
+.titlecard {
+   
+}
+
+.titleCardImage {
+    margin-top: 30vh;
+}
+
+body {
+    background-color: #d7dee5;
+}
